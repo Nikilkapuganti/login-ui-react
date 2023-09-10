@@ -1,4 +1,11 @@
 
-# react-18-redux-registration-login-example
+# simple-login-ui-react-redux-master
+
+
+
+# npm install
+
+
+#npm start
 
 
